@@ -1,0 +1,128 @@
+/*
+*	Flat UI Colours.css
+*	Author: Chearful
+*	Description: Provides an easy to use palette for all the colours on http://flatuicolors.com/ .
+*	Licensed under MIT: https://tldrlegal.com/license/mit-license 
+*/
+
+.flatuic-text-turqoise {
+	color: #1abc9c;
+}
+.flatuic-text-emerald {
+	color: #2ecc71;
+}
+.flatuic-text-peterriver {
+	color: #3498db;
+}
+.flatuic-text-amethyst {
+	color: #9b59b6;
+}
+.flatuic-text-wetasphalt {
+	color: #34495e;
+}
+.flatuic-text-greensea {
+	color: #16a085;
+}
+.flatuic-text-nephritis {
+	color: #27ae60;
+}
+.flatuic-text-belizehole {
+	color: #2980b9;
+}
+.flatuic-text-wisteria {
+	color: #8e44ad;
+}
+.flatuic-text-midnightblue {
+	color: #2c3e50;
+}
+.flatuic-text-sunflower {
+	color: #f1c40f;
+}
+.flatuic-text-carrot {
+	color: #e67e22;
+}
+.flatuic-text-alizarin {
+	color: #e74c3c;
+}
+.flatuic-text-clouds {
+	color: #ecf0f1;
+}
+.flatuic-text-concrete {
+	color: #95a5a6;
+}
+.flatuic-text-orange {
+	color: #f39c12;
+}
+.flatuic-text-pumpkin {
+	color: #d35400;
+}
+.flatuic-text-pomegranate {
+	color: #c0392b;
+}
+.flatuic-text-silver {
+	color: #bdc3c7;
+}
+.flatuic-text-asbestos {
+	color: #7f8c8d;
+}
+
+.flatuic-bg-turqoise {
+	background-color: #1abc9c;
+}
+.flatuic-bg-emerald {
+	background-color: #2ecc71;
+}
+.flatuic-bg-peterriver {
+	background-color: #3498db;
+}
+.flatuic-bg-amethyst {
+	background-color: #9b59b6;
+}
+.flatuic-bg-wetasphalt {
+	background-color: #34495e;
+}
+.flatuic-bg-greensea {
+	background-color: #16a085;
+}
+.flatuic-bg-nephritis {
+	background-color: #27ae60;
+}
+.flatuic-bg-belizehole {
+	background-color: #2980b9;
+}
+.flatuic-bg-wisteria {
+	background-color: #8e44ad;
+}
+.flatuic-bg-midnightblue {
+	background-color: #2c3e50;
+}
+.flatuic-bg-sunflower {
+	background-color: #f1c40f;
+}
+.flatuic-bg-carrot {
+	background-color: #e67e22;
+}
+.flatuic-bg-alizarin {
+	background-color: #e74c3c;
+}
+.flatuic-bg-clouds {
+	background-color: #ecf0f1;
+}
+.flatuic-bg-concrete {
+	background-color: #95a5a6;
+}
+.flatuic-bg-orange {
+	background-color: #f39c12;
+}
+.flatuic-bg-pumpkin {
+	background-color: #d35400;
+}
+.flatuic-bg-pomegranate {
+	background-color: #c0392b;
+}
+.flatuic-bg-silver {
+	background-color: #bdc3c7;
+}
+.flatuic-bg-asbestos {
+	background-color: #7f8c8d;
+}
